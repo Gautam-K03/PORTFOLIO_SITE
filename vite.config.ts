@@ -5,7 +5,7 @@ import path from 'node:path';
 // Deployed to GitHub Pages under /me/.
 export default defineConfig(({ command }) => ({
   plugins: [vue()],
-  base: command === 'build' ? '/me/' : '/',
+  base: process.env.VERCEL ? '/' : (command === 'build' ? '/me/' : '/'),
   server: { port: 5173 },
   resolve: {
     alias: { '@': path.resolve(__dirname, 'src') },
