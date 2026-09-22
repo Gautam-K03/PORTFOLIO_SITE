@@ -1,0 +1,9 @@
+{
+  "name": "Gautam Kumar - Frontend Web Developer",
+  "short_name": "Gautam",
+  "start_url": "/me/",
+  "display": "standalone",
+  "background_color": "#0f0e0c",
+  "theme_color": "#0f0e0c",
+  "icons": [{ "src": "/me/favicon.svg", "sizes": "64x64", "type": "image/svg+xml" }]
+}

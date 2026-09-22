@@ -1,0 +1,222 @@
+{
+  "site": {
+    "name": "Gautam",
+    "title": "Gautam Kumar - Frontend Web Developer",
+    "since": 2026,
+    "stack": "React - TypeScript - Tailwind CSS"
+  },
+  "nav": [
+    { "id": "about", "label": "Profile" },
+    { "id": "skills", "label": "Skills" },
+    { "id": "work", "label": "Projects" },
+    { "id": "experience", "label": "Experience" },
+    { "id": "writing", "label": "Certifications" },
+    { "id": "contact", "label": "Contact" }
+  ],
+  "hero": {
+    "eyebrow": "Frontend Web Developer",
+    "name": "Gautam",
+    "role": "I turn UI/UX designs into responsive, cross-browser React interfaces.",
+    "intro": "Frontend developer based in Delhi, focused on HTML5, CSS3, JavaScript, React, reusable component code, performance optimization, and clean design-to-code execution.",
+    "meta": ["Delhi, India", "React - TypeScript - Tailwind CSS", "B.Tech CSE, 2022-2026"],
+    "scrollHint": "Scroll"
+  },
+  "about": {
+    "heading": "Frontend craft with production habits.",
+    "lede": "A detail-oriented frontend developer building responsive interfaces, reusable components, and polished project experiences.",
+    "story": [
+      "I work across the front-end stack, from translating UI/UX designs into clean HTML, CSS, JavaScript, and React components to debugging, maintenance, and performance work.",
+      "My projects cover e-commerce flows, real-time SaaS dashboards, and immersive 3D portfolios. I like component systems that are easy to reuse, interfaces that work across browsers, and code that stays understandable when the product grows."
+    ],
+    "highlightsTitle": "What I bring",
+    "highlights": [
+      { "icon": "layers", "text": "Design-to-code conversion for responsive, cross-browser web pages" },
+      { "icon": "terminal", "text": "Reusable React components with TypeScript, Tailwind CSS, and state management" },
+      { "icon": "cpu", "text": "Performance-minded UI work: code splitting, lazy loading, and optimized API usage" },
+      { "icon": "smartphone", "text": "Mobile-first layouts, UI debugging, maintenance, and live project collaboration" }
+    ],
+    "focus": {
+      "researchTitle": "Focus areas",
+      "research": [
+        "React application architecture",
+        "Responsive and cross-browser UI",
+        "Server-state and real-time interfaces",
+        "Interactive 3D web experiences"
+      ],
+      "learningTitle": "Growing next",
+      "learning": [
+        "Advanced TypeScript patterns",
+        "Frontend testing and CI/CD",
+        "Performance profiling",
+        "Production collaboration with senior teams"
+      ]
+    },
+    "plates": [
+      { "slug": "workspace", "w": 1184, "h": 864, "alt": "Developer workspace", "caption": "Frontend builds, debugging, and iteration" },
+      { "slug": "pinetalk", "w": 1600, "h": 833, "alt": "Responsive application interface", "caption": "Interfaces shaped around clarity, motion, and usability" }
+    ],
+    "timelineTitle": "Timeline",
+    "timeline": [
+      { "year": "2019", "title": "Diploma started", "desc": "Electronics and Communication Engineering at PUSA Institute of Technology" },
+      { "year": "2022", "title": "Diploma completed", "desc": "Completed diploma with 72 percent grade" },
+      { "year": "2022", "title": "B.Tech CSE", "desc": "Started Computer Science Engineering at St. Andrews Institute of Technology and Management" },
+      { "year": "2025", "title": "Skyscanner simulation", "desc": "Built a responsive React app using Backpack components in a production-style workflow" },
+      { "year": "2025", "title": "Project portfolio", "desc": "Built e-commerce, analytics dashboard, and 3D portfolio projects with modern frontend tooling" },
+      { "year": "2026", "title": "Degree completed", "desc": "Completed B.Tech CSE through MDU Rohtak" }
+    ]
+  },
+  "skills": {
+    "heading": "The frontend stack.",
+    "intro": "A practical toolkit for building responsive applications, integrating APIs, and maintaining polished user interfaces.",
+    "levels": {
+      "master": { "bars": 4, "label": "Strong" },
+      "adept": { "bars": 3, "label": "Project-ready" },
+      "familiar": { "bars": 2, "label": "Familiar" },
+      "novice": { "bars": 1, "label": "Learning" }
+    },
+    "marquee": ["React", "TypeScript", "JavaScript", "Tailwind CSS", "Redux Toolkit", "React Query", "Three.js", "REST APIs", "WebSockets", "Git", "Vite", "Framer Motion"],
+    "groups": [
+      {
+        "id": "frontend",
+        "title": "Frontend",
+        "subtitle": "Interfaces and component systems",
+        "skills": [
+          { "name": "React.js", "level": "master", "description": "Reusable component architecture" },
+          { "name": "JavaScript ES6+", "level": "master", "description": "Modern browser development" },
+          { "name": "TypeScript", "level": "adept", "description": "Typed React applications" },
+          { "name": "HTML5", "level": "master", "description": "Semantic page structure" },
+          { "name": "CSS3", "level": "master", "description": "Responsive, cross-browser layouts" },
+          { "name": "Tailwind CSS", "level": "adept", "description": "Utility-first UI styling" },
+          { "name": "Styled Components", "level": "adept", "description": "Component-scoped styling" },
+          { "name": "Framer Motion", "level": "familiar", "description": "Motion and interaction polish" }
+        ]
+      },
+      {
+        "id": "state",
+        "title": "State, APIs & realtime",
+        "subtitle": "Data flows for product UI",
+        "skills": [
+          { "name": "Redux Toolkit", "level": "adept", "description": "Cart and app state management" },
+          { "name": "React Query", "level": "adept", "description": "Server-state and caching" },
+          { "name": "REST APIs", "level": "adept", "description": "Client/API integration" },
+          { "name": "WebSockets", "level": "familiar", "description": "Real-time dashboard updates" },
+          { "name": "Razorpay API", "level": "familiar", "description": "Payment integration" },
+          { "name": "JWT Auth", "level": "familiar", "description": "Authenticated dashboard flows" }
+        ]
+      },
+      {
+        "id": "tooling",
+        "title": "Tooling & delivery",
+        "subtitle": "Build, ship, and maintain",
+        "skills": [
+          { "name": "Git", "level": "adept", "description": "Version control workflows" },
+          { "name": "GitHub", "level": "adept", "description": "Code collaboration" },
+          { "name": "Vite", "level": "adept", "description": "Fast frontend builds" },
+          { "name": "Webpack", "level": "familiar", "description": "Bundling and build config" },
+          { "name": "Vercel", "level": "adept", "description": "Frontend deployment" },
+          { "name": "CI/CD", "level": "familiar", "description": "Automated delivery pipelines" }
+        ]
+      },
+      {
+        "id": "fundamentals",
+        "title": "Fundamentals",
+        "subtitle": "CS and web foundations",
+        "skills": [
+          { "name": "Responsive Design", "level": "master", "description": "Mobile-first interfaces" },
+          { "name": "Cross-browser UI", "level": "adept", "description": "Compatibility testing" },
+          { "name": "UI Debugging", "level": "adept", "description": "Bug fixing and maintenance" },
+          { "name": "Python", "level": "familiar", "description": "Programming fundamentals" },
+          { "name": "C / C++", "level": "familiar", "description": "DSA and core concepts" },
+          { "name": "Prompt Engineering", "level": "familiar", "description": "AI-assisted workflows" }
+        ]
+      }
+    ]
+  },
+  "work": {
+    "heading": "Selected projects.",
+    "intro": "Frontend builds that show commerce flows, real-time dashboards, motion, API integration, and production-minded React architecture.",
+    "featured": [
+      {
+        "id": "ecommerce",
+        "title": "E-Commerce Frontend",
+        "kicker": "React storefront",
+        "desc": "Responsive storefront with product listings, search, filters, wishlist, cart management, and Razorpay payment integration.",
+        "tech": ["React", "Redux Toolkit", "Styled Components", "React Query", "Razorpay API"],
+        "plate": {
+          "type": "terminal",
+          "lines": [
+            "$ npm run build",
+            "  resolving product modules        ok",
+            "  optimizing cart state            ok",
+            "  bundling checkout UI             ok",
+            "  payment integration              ready",
+            "done responsive storefront shipped"
+          ]
+        }
+      },
+      {
+        "id": "saas-dashboard",
+        "title": "AI-Powered SaaS Analytics Dashboard",
+        "kicker": "Realtime dashboard",
+        "desc": "Dashboard with dynamic charts, WebSocket updates, REST API integration, role-based access, and reusable Atomic Design components.",
+        "tech": ["React", "TypeScript", "Tailwind CSS", "Recharts", "WebSockets", "REST API"],
+        "image": { "slug": "tinygram", "w": 1532, "h": 919, "alt": "Analytics dashboard style interface" }
+      },
+      {
+        "id": "portfolio-3d",
+        "title": "3D Interactive Developer Portfolio",
+        "kicker": "Immersive web",
+        "desc": "Portfolio experience with Three.js scenes, scroll-triggered animation, GPU-accelerated particles, custom shaders, and EmailJS contact handling.",
+        "tech": ["React", "Three.js", "Framer Motion", "EmailJS", "Vercel"],
+        "image": { "slug": "workspace", "w": 1600, "h": 1068, "alt": "Developer portfolio workspace" }
+      },
+      {
+        "id": "skyscanner-simulation",
+        "title": "Skyscanner Job Simulation",
+        "kicker": "Forage virtual experience",
+        "desc": "Converted UI/UX specifications into a responsive React application using Skyscanner's Backpack design system and calendar components.",
+        "tech": ["React", "Backpack UI", "SCSS", "Cross-browser testing"],
+        "image": { "slug": "pinetalk", "w": 1600, "h": 833, "alt": "Responsive application layout" }
+      }
+    ],
+    "moreTitle": "Also practiced",
+    "more": [
+      { "title": "Infinite Scroll UX", "desc": "Implemented paginated loading patterns with skeleton screens and optimistic UI updates.", "tech": ["React Query", "UX", "Performance"] },
+      { "title": "Role-Based Dashboard UI", "desc": "Built authenticated dashboard flows with JWT patterns, role-based access, and dark/light mode.", "tech": ["JWT", "Tailwind CSS", "TypeScript"] },
+      { "title": "Performance Optimization", "desc": "Used code splitting and lazy loading to reduce initial page load time on a project by 40 percent.", "tech": ["Vite", "Lazy loading", "React"] },
+      { "title": "Responsive QA", "desc": "Tested layouts across devices and browsers to keep interfaces consistent and maintainable.", "tech": ["CSS3", "Debugging", "Cross-browser"] }
+    ]
+  },
+  "experience": {
+    "heading": "Experience & education.",
+    "intro": "Practical frontend experience, academic background, and project work, newest first.",
+    "entries": [
+      { "title": "Front-End Web Developer", "org": "Skyscanner Job Simulation - Forage", "period": "May 2025", "desc": "Built a responsive React application from UI/UX specifications using Backpack components, SCSS customization, interactive elements, and cross-browser testing." },
+      { "title": "B.Tech in Computer Science Engineering", "org": "St. Andrews Institute of Technology and Management, Gurgaon - MDU Rohtak", "period": "2022 - 2026", "desc": "Completed degree with a 70 percent grade." },
+      { "title": "Diploma in Electronics and Communication Engineering", "org": "PUSA Institute of Technology", "period": "2019 - 2022", "desc": "Completed diploma with a 72 percent grade." }
+    ]
+  },
+  "writing": {
+    "heading": "Certifications.",
+    "intro": "Courses and credentials from the resume, focused on support fundamentals, Python, JavaScript, and DBMS.",
+    "medium": "",
+    "items": [
+      { "title": "Technical Support Fundamentals", "source": "Google" },
+      { "title": "Crash Course on Python", "source": "Google" },
+      { "title": "JavaScript Course", "source": "Coursework" },
+      { "title": "DBMS Course", "source": "Coursework" }
+    ]
+  },
+  "contact": {
+    "heading": "Let's build polished frontend experiences.",
+    "line": "Open to frontend roles, internships, and live client projects where React, responsive design, UI debugging, and performance matter.",
+    "email": "gutmkumar21.03@gmail.com",
+    "links": [
+      { "label": "Email", "href": "mailto:gutmkumar21.03@gmail.com" },
+      { "label": "Phone", "href": "tel:+918579800222" },
+      { "label": "Location", "href": "https://www.google.com/maps/place/Delhi,+India" }
+    ],
+    "cv": "/assets/Gautam_resume.pdf",
+    "status": "Currently: B.Tech CSE + frontend projects"
+  }
+}
