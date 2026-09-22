@@ -5,7 +5,7 @@ tweens between paper, vermilion and ink as you move through the chapters, a live
 "signal" line reacts to the pointer and scroll, and the work strip scrolls
 horizontally on desktop. Vue 3 + GSAP (ScrollTrigger, SplitText) + Lenis.
 
-Live: 
+Live: ___
 
 ## Scripts
 
