@@ -5,6 +5,7 @@ tweens between paper, vermilion and ink as you move through the chapters, a live
 "signal" line reacts to the pointer and scroll, and the work strip scrolls
 horizontally on desktop. Vue 3 + GSAP (ScrollTrigger, SplitText) + Lenis.
 
+Live: https://developersharif.github.io/me/
 
 ## Scripts
 
@@ -13,6 +14,7 @@ npm install
 npm run dev       # http://localhost:5173
 npm run build     # production build to dist/ (base: /me/)
 npm run preview   # serve dist/ on :4173
+npm run deploy    # push dist/ to gh-pages (GitHub Actions also deploys on push to main)
 ```
 
 ## Structure
